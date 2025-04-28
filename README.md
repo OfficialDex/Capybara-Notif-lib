@@ -31,7 +31,7 @@
 # Usage
 
 ```
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficialDex/Capybara-Notif-lib/refs/heads/main/code.lua"))() 
 notify({
     title = "Your Title",
     description = "Your Description Here",
@@ -45,6 +45,7 @@ notify({
 Example:
 
 ```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficialDex/Capybara-Notif-lib/refs/heads/main/code.lua"))() 
 notify({
     title = "Correct Code!",
     description = "You have successfully executed the script!",
@@ -57,6 +58,7 @@ notify({
 Another example (mode: warning):
 
 ```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficialDex/Capybara-Notif-lib/refs/heads/main/code.lua"))() 
 notify({
     title = "Warning!",
     description = "You are not using Arise Hub, Loser.",
@@ -69,12 +71,9 @@ notify({
 ---
 
 
-
----
-
 # Credits
 
-Created by: [#blaze.developer.](https://yourwebsite.com)
+Created by: [#blaze.developer.](https://discord.com)
 
 Script Name: Capybara Notif
 
