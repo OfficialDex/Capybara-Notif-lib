@@ -80,7 +80,7 @@ Script Name: Capybara Notif
 
 Version: 0.1
 
-License: MIT License (or whatever license you prefer)
+License: MIT License
 
 
 
@@ -88,7 +88,8 @@ License: MIT License (or whatever license you prefer)
 
 # Notes:
 - This is first version of this library so expect a few bugs (dm me on discord if you find any bug)
-- On both, the title And description there's a text limit that if you exceed then your exceeded text will NOT be included.
+- On both, the title And description there's a text limit that if you exceed then your exceeded text will **NOT** be included.
 - If you don't want to use any of the modes then you can simply remove that line in code so you will get default mode which is white 
-- before you would say i'm a skid too so I'll let you know that yes i used ChatGPT but only for positioning frames properly, Nothing more than that
+- before you would say i'm a skid too so I'll let you know that yes i used ChatGPT but **only** for positioning frames properly, Nothing more than that
+- You are **NOT** allowed to skid the source code of this library
 - Next update on (?/?/?)
