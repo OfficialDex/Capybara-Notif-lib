@@ -1,5 +1,3 @@
----
-
 # NEW Notification UI Library
 
 **Capybara Notif** is a **simple, stylish and easy to use** Notification library!
@@ -16,12 +14,13 @@
 
 - TOTALLY Free to use!
 
+---
 
 # Modes:
 
 - ```success```
 
-- ```|warning```
+- ```warning```
 
 - ```alert``` 
 
