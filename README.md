@@ -30,8 +30,7 @@
 
 # Usage
 
-```
-lua
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficialDex/Capybara-Notif-lib/refs/heads/main/code.lua"))() 
 notify({
     title = "Your Title",
@@ -45,8 +44,7 @@ notify({
 
 Example:
 
-```
-lua
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficialDex/Capybara-Notif-lib/refs/heads/main/code.lua"))() 
 notify({
     title = "Correct Code!",
@@ -59,8 +57,7 @@ notify({
 
 Another example (mode: warning):
 
-```
-lua
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficialDex/Capybara-Notif-lib/refs/heads/main/code.lua"))() 
 notify({
     title = "Warning!",
