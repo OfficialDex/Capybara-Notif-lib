@@ -69,9 +69,11 @@ notify({
 ```
 
 ---
+
 # UI Images
 ![with Modes](Screenshot_20250427-202154.jpg)
-![without any Mode](foldername/imagename.png)
+![without any Mode](IMG_20250428_175624.jpg)
+
 
 ---
 
