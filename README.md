@@ -69,6 +69,11 @@ notify({
 ```
 
 ---
+# UI Images
+![with Modes](Screenshot_20250427-202154.jpg)
+![without any Mode](foldername/imagename.png)
+
+---
 
 
 # Credits
